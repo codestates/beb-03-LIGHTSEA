@@ -42,7 +42,7 @@ const NADCPriceHistory = ({ salesHistory }) => {
       </Button>
       <Body>
         <ContentContainer>
-          {salesHistory.length === 0 ? (
+          {/* {salesHistory.length === 0 ? (
             "No History"
           ) : (
             <div style={{ marginBottom: "1rem" }}>
@@ -58,7 +58,7 @@ const NADCPriceHistory = ({ salesHistory }) => {
                 </div>
               ))}
             </div>
-          )}
+          )} */}
         </ContentContainer>
       </Body>
     </Container>

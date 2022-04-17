@@ -41,9 +41,10 @@ const Title = styled.span`
 
 const DescWrapper = styled.div`
   position: relative;
-  top: 20%;
+  /* top: 20%; */
   width: 100%;
-
+  margin-top: 1000px;
+  
   display: flex;
   flex-direction: column;
   justify-content: center;
